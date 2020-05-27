@@ -1,8 +1,8 @@
-# HolaMundo
-public class HolaMundo
-{
-    public static void main(String[] args)
-    {
-        System.out.println("¡Hola mundo!");
-    }
-}
+<html>
+ <head>
+  <title>Prueba de PHP</title>
+ </head>
+ <body>
+ <p>Hola mundo</p>
+ </body>
+</html>
